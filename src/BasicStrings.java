@@ -16,6 +16,7 @@ public class BasicStrings {
 
             System.out.println(getChar(hannah, 12));
             System.out.println(getPositionOf(hannah, 'e'));
+            System.out.println(getPositionOf(hannah, 's'));
 
 
 
