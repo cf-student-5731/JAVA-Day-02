@@ -15,7 +15,7 @@ public class BasicStrings {
         System.out.println("This String has " + hannah.length() + " Characters inside!");
 
             System.out.println(getChar(hannah, 12));
-            System.out.println(getPositionOf(hannah, 'h'));
+            System.out.println(getPositionOf(hannah, 'e'));
 
 
 
