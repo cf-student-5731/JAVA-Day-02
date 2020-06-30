@@ -27,7 +27,6 @@ public class BasicStringsFasy {
         System.out.print("Enter the position of the wanted Character: ");
         int myPosition = in.nextInt();
         System.out.println("The Character at position " + myPosition + " is " + getChar(myString, myPosition-1));
-
         System.out.println("Was it a car or a cat I saw?".substring(9, 12));
 
 
