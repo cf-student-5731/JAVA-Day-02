@@ -6,7 +6,7 @@ public class BasicStrings {
     }
 
     static int getPositionOf(String s, char c){
-        return s.indexOf('b');
+        return s.indexOf(c);
     }
 
     public static void main(String[] args) {
